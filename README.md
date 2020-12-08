@@ -35,7 +35,7 @@
 * Group options with group names, you can search group names
 * Fully stylable
 
-_*One optional dependency required for built-in fuzzy search_
+_*One optional dependency required for built-in fuzzy search_.
 
 ## Demo
 
